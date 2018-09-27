@@ -1,0 +1,19 @@
+.fs{
+	font-size: 24px;
+}
+.text-box{
+	width: 100%;
+}
+.name{
+	width: 50%;
+}
+.sub{
+	text-align: center;
+	width: 45%;
+}
+.main{
+	margin:0px 225px;
+}
+.no-bd{
+	border: 0px;
+}
