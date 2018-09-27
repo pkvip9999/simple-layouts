@@ -4,6 +4,9 @@ body{
 #head{
 	text-align: center;
 }
+#main{
+	padding: 50px;
+}
 .fc{
 	display: flex;
 	flex-direction: column;
@@ -12,7 +15,9 @@ body{
 	display: flex;
 	flex-direction: row;
 }
-
+.mg{
+	margin: 20px;
+}
 img{
 	width: 100%;
 }
