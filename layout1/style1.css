@@ -1,0 +1,45 @@
+body{
+	padding: 50px;
+}
+#head{
+	text-align: center;
+}
+.fc{
+	display: flex;
+	flex-direction: column;
+}
+.fr{
+	display: flex;
+	flex-direction: row;
+}
+
+img{
+	width: 100%;
+}
+p{
+	margin: auto;
+}
+.text{
+	text-align: justify;
+}
+.right-top,.right-bot{
+	display: flex;
+	flex-direction: row;
+}
+.bg{
+	background: #e4e4e4;
+	border-radius: 15px;
+	padding: 20px;
+}
+.mgt{
+	margin-top: 20px;
+}
+.mgb{
+	margin-bottom: 20px;
+}
+.mgl{
+	margin-left: 20px;
+}
+.mgr{
+	margin-right: 20px;
+}
