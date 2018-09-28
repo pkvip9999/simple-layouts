@@ -11,6 +11,7 @@ Thực hiện bởi [Phạm Hữu Thưởng](http://github.com/pkvip9999)
 4. [Layout 4](http://pkvip9999.github.io/simple-layouts/layout4)
 5. [Layout 5](http://pkvip9999.github.io/simple-layouts/layout5)
 6. [Layout 6](http://pkvip9999.github.io/simple-layouts/layout6)
+7. [Layout 7](http://pkvip9999.github.io/simple-layouts/layout7)
 
 ## Kiến thức nắm được
 
