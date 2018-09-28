@@ -1,0 +1,19 @@
+.avt{
+    float: left;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 30%;
+}
+#head{
+    font-size: 50px;
+}
+img{
+    border-radius: 15px;
+}
+body{
+    padding: 200px;
+}
+p{
+
+}
