@@ -9,6 +9,7 @@ Thực hiện bởi [Phạm Hữu Thưởng](http://github.com/pkvip9999)
 2. [Layout 2](http://pkvip9999.github.io/simple-layouts/layout2)
 3. [Layout 3](http://pkvip9999.github.io/simple-layouts/layout3)
 4. [Layout 4](http://pkvip9999.github.io/simple-layouts/layout4)
+5. [Layout 5](http://pkvip9999.github.io/simple-layouts/layout5)
 
 ## Kiến thức nắm được
 
