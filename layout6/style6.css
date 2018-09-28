@@ -1,0 +1,12 @@
+body{
+    padding: 0 200px;
+}
+.avt{
+    margin-right: 20px;
+}
+.cmt{
+    background: #e4e4e4;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+}
