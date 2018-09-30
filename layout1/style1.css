@@ -59,3 +59,6 @@ p{
     /*margin: 0 auto;*/
 
 }
+.img{
+    flex: 3;
+}
