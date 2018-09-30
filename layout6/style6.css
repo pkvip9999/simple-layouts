@@ -6,4 +6,11 @@
     background: #e4e4e4;
     padding: 20px;
     border-radius: 15px;
+    height: 100%;
+}
+.null{
+    background: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    height: 100%;
 }
