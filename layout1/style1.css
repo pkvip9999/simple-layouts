@@ -8,10 +8,10 @@
     /*margin: auto;*/
 }
 body{
-    padding: 0 200px;
-    padding-bottom: 100px;
+    width: 800px;
     font-size: 20px;
     margin: 0 auto;
+    padding-bottom: 40px;
 }
 img{
     width: 100%;
@@ -20,17 +20,20 @@ p{
     text-align: justify;
     margin:0;
 }
+.mgb{
+    margin-bottom: 40px;
+}
 .top{
     margin-bottom: 40px;
 }
 .box{
-    background: #e4e4e4;
+    background: #f4f4f4;
     border-radius: 15px;
     padding: 20px;
     height: 100%;
 }
 .boxi{
-    background: #e4e4e4;
+    background: #f4f4f4;
     border-radius: 15px;
     padding: 20px;
 }

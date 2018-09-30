@@ -8,39 +8,38 @@
 	<link rel="stylesheet" type="text/css" href="style3.css">
 </head>
 <body>
+	<div id="head">
+		<h1>CONTENT</h1>
+	</div>
+	<div class="mgb">
+		<img src="../img/img2.png" alt="">
+	</div>
 	<div>
-		<div id="head">
-			<h1>CONTENT</h1>
-		</div>
-		<div class="fc main">
-			<div class="mgb">
-				<img src="../img/img2.png" alt="img2">
-			</div>
-			<form action="index_submit" method="get" accept-charset="utf-8">
-				<div class="fc mgt">
-					<div class="fr mgb	">
-						<div class="name fr bg mgr">
-							<span class="fs mgr">First Name</span>
-							<div>
-								<input class="fs no-bd" type="text" name="fname">
-							</div>
-						</div>
-						<div class=" name fr bg mgl">
-							<span class="fs mgr">Last Name</span>
-							<div>
-								<input class="fs no-bd" type="text" name="lname">
-							</div>
-						</div>
-					</div>
-					<div class="fr bg mgt mgb">
-						<span class="fs mgr" >CONTENT</span>
-						<input  class="fs text-box no-bd" type="text" name="content">
-					</div>
-					<div class="bg sub">
-						<span class="fs">SUBMIT</span>
-					</div>
+		<div class="row mgb" >
+			<div class="col-3" style="margin-right: 40px">
+				<div class="box row">
+					<label for="stname" class="name">First Name</label>
+					<input type="text" class="text" id="stname">
 				</div>
-			</form>
+
+			</div>
+			<div class="col-3">
+				<div class="box row">
+					<label for="lname" class="name">Last Name</label>
+					<input type="text" class="text" id="lname">
+				</div>
+			</div>
+		</div>
+		<div class="mgb">
+			<div class="box row">
+				<label for="cont" class="name">CONTENT</label>
+				<input type="text" class="text" id="cont">
+			</div>
+		</div>
+		<div>
+			<div class="box col-4" style="text-align: center">
+				<input  class="sub" type="submit" value="SUBMIT" >
+			</div>
 		</div>
 	</div>
 </body>
